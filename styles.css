@@ -1,0 +1,36 @@
+header {
+    background-color: white;
+}
+
+h1 {    
+    background-color:	#1d695ef1; width: 180px; height: 40px;
+    display:block;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 20px;
+    color: white;
+}
+
+body {
+    padding: 15px;
+    text-align: left;
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 13px;
+  background-image: url(../Assets/Images/ep_naturalwhite/ep_naturalwhite.png);
+  display: block;
+}
+
+
+ul {float: right;
+}
+
+img {float: left;
+    width: 20%;
+    height: auto;
+    padding: 10px;
+  }
+
+  .container {
+    /* Box-model */
+    width: 1350px;
+  }
+  
